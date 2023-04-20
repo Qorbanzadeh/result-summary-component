@@ -8,7 +8,7 @@ function ResultScore() {
     >
       <h1 className="text-2xl font-bold">Your result</h1>
       <p className="grid w-48 mx-auto rounded-full bg-gradient-to-b from-gradient_violet_blue to-gradient_persian_blue aspect-square place-content-center">
-        <span className="block font-black text-7xl">76</span> of 100
+        <span className="block font-black text-white text-7xl">76</span> of 100
       </p>
 
       <div className="grid content-start gap-4">

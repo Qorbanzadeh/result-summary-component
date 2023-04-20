@@ -44,7 +44,7 @@ function ResultSummary() {
         ))}
       </div>
 
-      <button className="px-8 py-4 rounded-full cursor-pointer text-neutral_white bg-neutral_dark_gray_blue hover:bg-gradient-to-t hover:from-gradient_light_royal_blue hover:to-gradient_light_slate_blue">
+      <button className="px-8 py-4 text-white rounded-full cursor-pointer bg-neutral_dark_gray_blue hover:bg-gradient-to-t hover:from-gradient_light_royal_blue hover:to-gradient_light_slate_blue">
         Continue
       </button>
     </div>
