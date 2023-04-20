@@ -14,7 +14,7 @@ module.exports = {
         primary_cobalt_blue: "hsl(234, 85%, 45%)",
         // bg
         gradient_light_slate_blue: "hsl(252, 100%, 67%)",
-        gradient_light_royal_blue: "hsl(39, 100%, 56%)",
+        gradient_light_royal_blue: "hsl(241, 81%, 54%)",
         // circle
         gradient_violet_blue: "hsla(256, 72%, 46%, 1)",
         gradient_persian_blue: "hsla(241, 72%, 46%, 0)",
